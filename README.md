@@ -2,7 +2,7 @@
 
 This is a responsive web page for PW Skills, designed using HTML, CSS, and Tailwind CSS. The webpage includes various sections such as a navigation bar, an image header, student statistics, product offerings, and a footer.
 
-Features
+Features 
 
 Responsive Design: Optimized for both mobile and desktop views.
 
